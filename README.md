@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xuanphung27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @xuanphung
+- 👀 I’m interested in Coding and Coding, trading and also fashion
+- 🌱 I’m currently learning Front End Development 
+- 💞️ I’m looking to collaborate on Web design, online projects
+- 📫 Reach me to gmail thanhxuanlop9.10@gmail.com
 
 <!---
 xuanphung27/xuanphung27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
